@@ -1,0 +1,24 @@
+D:\Programming\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp3.0\ConsoleApp17.exe
+D:\Programming\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp3.0\ConsoleApp17.deps.json
+D:\Programming\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp3.0\ConsoleApp17.runtimeconfig.json
+D:\Programming\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp3.0\ConsoleApp17.runtimeconfig.dev.json
+D:\Programming\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp3.0\ConsoleApp17.dll
+D:\Programming\source\repos\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp3.0\ConsoleApp17.pdb
+D:\Programming\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp3.0\ConsoleApp17.csprojAssemblyReference.cache
+D:\Programming\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp3.0\ConsoleApp17.AssemblyInfoInputs.cache
+D:\Programming\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp3.0\ConsoleApp17.AssemblyInfo.cs
+D:\Programming\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp3.0\ConsoleApp17.dll
+D:\Programming\source\repos\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp3.0\ConsoleApp17.pdb
+D:\Documents\School Stuff\Programming\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp3.0\ConsoleApp17.exe
+D:\Documents\School Stuff\Programming\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp3.0\ConsoleApp17.deps.json
+D:\Documents\School Stuff\Programming\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp3.0\ConsoleApp17.runtimeconfig.json
+D:\Documents\School Stuff\Programming\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp3.0\ConsoleApp17.runtimeconfig.dev.json
+D:\Documents\School Stuff\Programming\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp3.0\ConsoleApp17.dll
+D:\Documents\School Stuff\Programming\ConsoleApp17\ConsoleApp17\bin\Debug\netcoreapp3.0\ConsoleApp17.pdb
+D:\Documents\School Stuff\Programming\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp3.0\ConsoleApp17.csprojAssemblyReference.cache
+D:\Documents\School Stuff\Programming\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp3.0\ConsoleApp17.csproj.CoreCompileInputs.cache
+D:\Documents\School Stuff\Programming\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp3.0\ConsoleApp17.AssemblyInfoInputs.cache
+D:\Documents\School Stuff\Programming\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp3.0\ConsoleApp17.AssemblyInfo.cs
+D:\Documents\School Stuff\Programming\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp3.0\ConsoleApp17.dll
+D:\Documents\School Stuff\Programming\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp3.0\ConsoleApp17.pdb
+D:\Documents\School Stuff\Programming\ConsoleApp17\ConsoleApp17\obj\Debug\netcoreapp3.0\ConsoleApp17.genruntimeconfig.cache
