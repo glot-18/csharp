@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Gdlot\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Gdlot\\.nuget\\packages"
+    ]
+  }
+}

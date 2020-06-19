@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/HfHz8DOao9IhCKXow3pGbR0BaX256NrjpIiHUUPL095XmkNY5TeQG7tYhFG7OLjfCatwtsC3gymVgXIQLdqrw==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\School Stuff\\Programming\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gdlot\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\Gdlot\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\Gdlot\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\Gdlot\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

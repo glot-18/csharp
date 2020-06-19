@@ -1,0 +1,11 @@
+C:\Users\glotey7\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp2.1\ConsoleApp11.deps.json
+C:\Users\glotey7\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp2.1\ConsoleApp11.runtimeconfig.json
+C:\Users\glotey7\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp2.1\ConsoleApp11.runtimeconfig.dev.json
+C:\Users\glotey7\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp2.1\ConsoleApp11.dll
+C:\Users\glotey7\source\repos\ConsoleApp11\ConsoleApp11\bin\Debug\netcoreapp2.1\ConsoleApp11.pdb
+C:\Users\glotey7\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp2.1\ConsoleApp11.csprojAssemblyReference.cache
+C:\Users\glotey7\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp2.1\ConsoleApp11.csproj.CoreCompileInputs.cache
+C:\Users\glotey7\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp2.1\ConsoleApp11.AssemblyInfoInputs.cache
+C:\Users\glotey7\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp2.1\ConsoleApp11.AssemblyInfo.cs
+C:\Users\glotey7\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp2.1\ConsoleApp11.dll
+C:\Users\glotey7\source\repos\ConsoleApp11\ConsoleApp11\obj\Debug\netcoreapp2.1\ConsoleApp11.pdb
